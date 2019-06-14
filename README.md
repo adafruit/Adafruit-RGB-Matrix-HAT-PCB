@@ -6,7 +6,7 @@ Click here to purchase one from the Adafruit shop</a>
 PCB files for the Adafruit RGB Matrix HAT. Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/2345
 
-## DESCRIPTION
+### DESCRIPTION
 You can now create a dazzling display with your Raspberry Pi Model Zero/A+/B+/Pi 2 or Pi 3 with the Adafruit RGB Matrix HAT. This HAT plugs into your Pi and makes it super easy to control RGB matrices such as those we stock in the shop and create a colorful scrolling display or mini LED wall with ease.
 
 This HAT is our finest to date, full of some really great circuitry. Let me break it down for you:
